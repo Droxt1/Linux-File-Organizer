@@ -1,3 +1,5 @@
+declare -a directories=("$HOME/Downloads" "$HOME/Downloads/Telegram Desktop")
+
 documentsFolder="$HOME/Documents"
 picsFolder="$HOME/Pictures"
 vidFolder="$HOME/Videos"
